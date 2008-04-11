@@ -1,0 +1,16 @@
+--- #YAML:1.0
+name:                Net-SMS-VoipBuster
+version:             0.01
+abstract:            Send SMS from VoipBuster
+license:             ~
+author:              
+    - Filipe Dutra <mopy@cpan.org>
+generated_by:        ExtUtils::MakeMaker version 6.44
+distribution_type:   module
+requires:     
+    LWP::UserAgent:                5.81
+    XML::XPath:                    1.13
+    XML::XPath::XMLParser:         0
+meta-spec:
+    url:     http://module-build.sourceforge.net/META-spec-v1.3.html
+    version: 1.3
