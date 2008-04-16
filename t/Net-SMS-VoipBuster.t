@@ -1,4 +1,3 @@
-use lib qw(/home/filipe/tmp/perl/modulos/Net-SMS-VoipBuster/lib);
 use Test::More tests => 3;
 
 BEGIN { use_ok('Net::SMS::VoipBuster') };

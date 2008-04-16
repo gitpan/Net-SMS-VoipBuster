@@ -6,7 +6,7 @@ use LWP::UserAgent;
 use XML::XPath;
 use XML::XPath::XMLParser;
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 sub new {
     my $class    = shift;
